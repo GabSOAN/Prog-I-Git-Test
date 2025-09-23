@@ -1,5 +1,5 @@
 public class HelloWorld{
 	public static void main(String[] args){
-		System.out.prinln("Hello, Worldof Git !");
+		System.out.prinln("Hello World !, 23/9/2025");
 	}
 }
